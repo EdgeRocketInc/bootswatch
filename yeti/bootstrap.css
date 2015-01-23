@@ -1076,7 +1076,7 @@ body {
   font-size: 15px;
   line-height: 1.4;
   color: #222222;
-  background-color: #ffffff;
+  background-color: #f4f4f4;
 }
 input,
 button,
@@ -1121,7 +1121,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.4;
-  background-color: #ffffff;
+  background-color: #f4f4f4;
   border: 1px solid #dddddd;
   border-radius: 0;
   -webkit-transition: all 0.2s ease-in-out;
@@ -2270,7 +2270,7 @@ th {
   border-top: 2px solid #dddddd;
 }
 .table .table {
-  background-color: #ffffff;
+  background-color: #f4f4f4;
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -3916,7 +3916,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #6f6f6f;
-  background-color: #ffffff;
+  background-color: #f4f4f4;
   border: 1px solid #dddddd;
   border-bottom-color: transparent;
   cursor: default;
@@ -3962,7 +3962,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs.nav-justified > .active > a,
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: #ffffff;
+    border-bottom-color: #f4f4f4;
   }
 }
 .nav-pills > li {
@@ -4030,7 +4030,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs-justified > .active > a,
   .nav-tabs-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus {
-    border-bottom-color: #ffffff;
+    border-bottom-color: #f4f4f4;
   }
 }
 .tab-content > .tab-pane {
@@ -4879,7 +4879,7 @@ a.badge:focus {
   padding: 4px;
   margin-bottom: 21px;
   line-height: 1.4;
-  background-color: #ffffff;
+  background-color: #f4f4f4;
   border: 1px solid #dddddd;
   border-radius: 0;
   -webkit-transition: border 0.2s ease-in-out;
@@ -5707,7 +5707,7 @@ button.close {
   right: 0;
   bottom: 0;
   left: 0;
-  z-index: 1040;
+  z-index: 1050;
   -webkit-overflow-scrolling: touch;
   outline: 0;
 }
@@ -6868,5 +6868,6 @@ input[type="checkbox"] {
   color: #222222;
 }
 .well-tile {
-  background-color: #b0e1ef;
+  background-color: #ffffff;
+  color: #620888;
 }
