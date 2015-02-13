@@ -5537,7 +5537,7 @@ a.list-group-item-danger.active:focus {
   border-color: #ff9800;
 }
 .panel-primary > .panel-heading {
-  color: #ffffff;
+  color: #000000;
   background-color: #ff9800;
   border-color: #ff9800;
 }
@@ -5546,7 +5546,7 @@ a.list-group-item-danger.active:focus {
 }
 .panel-primary > .panel-heading .badge {
   color: #ff9800;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #ff9800;
